@@ -1,2 +1,1 @@
-﻿# Stock Price Visualizer using Streamlit
-deployed @ 
+﻿# Stock Closing Price Visualizer using Streamlit
